@@ -34,5 +34,9 @@ p{
     top: 230px;
 }
 button {
-    
+    width: 80px;
+    font-size: 17px;
+    position: relative;
+    left: 290px;
+    top: 300px;
 }
